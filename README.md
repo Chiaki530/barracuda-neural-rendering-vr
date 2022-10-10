@@ -1,4 +1,4 @@
-# Real-time Neural Rendering for VR
+# Real-time Barracuda Neural Rendering for VR
 
 In this repository, we develop a genetic neural rendering pipeline for VR devices that can display in real-time. The pipeline is built on the [Unity](https://unity.com/) engine and [Barracuda](https://github.com/Unity-Technologies/barracuda-release) package. This demo contains two applications for neural rendering, i.e., scene style transfer and photorealistic human rendering. The Unity demo can be downloaded [here](https://drive.google.com/file/d/1KeoINYymnIi4PJmP1ra5V68eZgXrKZ82/view?usp=sharing).
 
