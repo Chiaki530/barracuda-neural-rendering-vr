@@ -21,13 +21,13 @@ We have tested the demo on the Oculus Quest 2.
 - Right Thumbstick to change the view direction of the camera
 - X to enable neural rendering
 - A to disable neural rendering
-- B to reset the camera to original position
+- B to reset the camera to the original position
 
 <p align="center">
     <img title="lego" alt="Alt text" src="images/screenshot.png" width="300">  
 </p>
 
-# Starting
+# Usage
 1. Use trigger to select a neural rendering model (NNModel) (human rendering or scene transfer) from the left menu.
 2. Use trigger to select a mesh for testing from the right menu. 
 3. Click X to enable neural rendering. 
